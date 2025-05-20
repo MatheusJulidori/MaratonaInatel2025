@@ -53,7 +53,7 @@ Seu programa deve imprimir `Valid` ou `Invalid` conforme a regra de elegância.
   <tr>
     <td>
       19<br>
-      5+5+5+4
+      5+5+5*4
     </td>
     <td>
       Invalid
