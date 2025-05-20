@@ -45,7 +45,7 @@ Se a diferença for positiva, significa que a pessoa pagou a mais e tem direito 
       120 90 100
     </td>
     <td>
-      20 -10 -10
+      20 -10 0
     </td>
   </tr>
   <tr>
