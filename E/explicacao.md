@@ -33,13 +33,3 @@ Verificar se uma expressão com exatamente quatro números e três operadores é
    - Caso contrário, `Invalid`.
 
 ---
-
-## Exemplo
-```
-Entrada:
-16
-4+4+4+4
-
-Saída:
-Valid
-```

@@ -24,22 +24,5 @@ Isso significa que:
 
 ---
 
-## Exemplo
-```
-Entrada:
-4
-4
-Ana 2
-Bruno 4
-Carlos 3
-Diana 4
-
-Saída:
-Bruno
-Diana
-```
-
----
-
 ## Observação
 A dificuldade desse problema está em entender que o limite teórico (pior caso = `K`). Saber isso é essencial para resolver corretamente.

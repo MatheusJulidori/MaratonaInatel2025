@@ -1,4 +1,3 @@
-// Problema F - Falta de Sorte
 #include <iostream>
 #include <string>
 using namespace std;
